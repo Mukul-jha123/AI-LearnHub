@@ -1,4 +1,4 @@
-# EduAI
+# AI-LearningHub
 
 - A user centric smart learning application having features like personalized learning style predictor, AI Tutor, Recommendation system. Focus mode etc. <br>
 - The learning style predictor was made with the help of machine learning model Random Forest which when implemented gave the resultant learning style of the user from the options Visual, Auditory, Reading/Writing and Kinesthetic.<br>
